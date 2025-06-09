@@ -27,7 +27,7 @@ This OpenGL-based simulation animates a countryside scene with different seasona
 ## 🖼️ Preview
 
 ### Summer Scene (just an example)
-![Summer Scene]<img width="575" alt="image" src="https://github.com/user-attachments/assets/afd7a247-dd2f-4354-b61f-22aa10ca4fc9" />
+<img width="575" alt="image" src="https://github.com/user-attachments/assets/afd7a247-dd2f-4354-b61f-22aa10ca4fc9" />
 
 
 ## 🛠️ Technologies Used
